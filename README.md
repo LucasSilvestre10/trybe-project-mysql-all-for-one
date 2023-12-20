@@ -1,4 +1,4 @@
-# PROJETO TRYBE: All For One
+# All For One
 
 ## Descrição do Projeto
 Este repositório apresenta a conclusão bem-sucedida do projeto All For One, no qual foram aplicados os conceitos de SQL utilizando o banco de dados Northwind. Cada desafio foi resolvido em seu arquivo correspondente, seguindo o formato `desafioN.sql`.
